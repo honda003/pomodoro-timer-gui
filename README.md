@@ -18,6 +18,6 @@ A simple **Pomodoro Timer** built using **Python's Tkinter library** for a clean
    git clone https://github.com/honda003/pomodoro-timer-gui.git
    ```
 2. Open the project folder and run:
-```bash
+   ```bash
    python main.py
 ```
